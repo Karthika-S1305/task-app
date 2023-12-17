@@ -2,7 +2,7 @@ The application allows users to register, log-in, and manage a list of tasks wit
 
 Setting up frontend
 
-cd <repository-directory>
+cd your-repository-directory
 
 cd client
 
@@ -14,7 +14,7 @@ Run the frontend: npm start
 
 Setting up backend
 
-cd <repository-directory>
+cd your-repository-directory
 
 cd api
 
