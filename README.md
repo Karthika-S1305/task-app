@@ -10,11 +10,19 @@ Install dependencies in client repository: npm install
 
 Run the frontend: npm start
 
+
+
 Setting up backend
+
 cd <repository-directory>
+
 cd api
+
 Install dependencies in api repository: npm install
+
 Set up MongoDB:
+
 Install MongoDB locally or provide connection details in the configuration.
+
 Run the backend server:  npm run start
 
